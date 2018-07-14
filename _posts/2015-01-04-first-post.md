@@ -6,4 +6,4 @@ image: /img/hello_world.jpeg
 
 This is my first post, how exciting!
 
-[Hello World](/img/hello_world.jpeg)
+![Hello World](/img/hello_world.jpeg)
