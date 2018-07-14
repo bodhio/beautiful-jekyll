@@ -5,8 +5,6 @@ subtitle: Enlightening works of visual art to awaken your mind and uplift you sp
 use-site-title: true
 ---
 
-{% include preview.html %}
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -20,9 +18,6 @@ use-site-title: true
 	  {% endif %}
     </a>
 
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
 
     <div class="post-entry-container">
       {% if post.image %}
