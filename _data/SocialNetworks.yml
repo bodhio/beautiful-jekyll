@@ -98,5 +98,5 @@ yelp:
 
 shop:
   name: "Shop"
-  baseURL: "https://{{ site.author.yelp }}.bigcartel.com"
+  baseURL: "https://"
   icon: "fa-shopping-cart"
