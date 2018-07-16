@@ -11,8 +11,8 @@ My first lino print ever made, was created during the first lesson of my introdu
 ### Here is the first ever lino I created:
 
 <div style="text-align:center"><img src="/img/first/first-lino.jpg" width="50%" height="auto" frameBorder="0" /></div>
-|:--:| 
-| *Space* |
+:--: 
+*Space*
 
 Once we had it ready, we prepared the ink and had a go at making a print with it on the press. I decided to print mine on a diagonal, so the outcome was a diamond shape as oppose to square on the paper. I am pretty happy with the outcome.
 
