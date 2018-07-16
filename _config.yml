@@ -17,7 +17,7 @@ baseurl: ""
 title: Prints by Brian
 
 # Short description of your site
-description: Enlightening works of visual art to awaken your mind and uplift your spirit.
+description: Visually enlightening works of art to awaken your mind and uplift your spirit.
 
 # --- Navigation bar options --- #
 
@@ -38,12 +38,12 @@ title-img: "/img/bodhio.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#C0B283"
+navbar-col: "#DCD0C0"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#F4F4F4"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#76323F"
 footer-col: "#DCD0C0"
 footer-text-col: "#373737"
 footer-link-col: "#404040"
