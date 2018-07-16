@@ -16,14 +16,14 @@ Once we had it ready, we prepared the ink and had a go at making a print with it
 
 ## Here is the first print:
 
-<div style="text-align:center"><img src="/img/first/first-lino.jpg" width="100%" height="auto" frameBorder="0" /></div>
+<div style="text-align:center"><img src="/img/first/first-print.jpg" width="100%" height="auto" frameBorder="0" /></div>
 
 I decided to experiment with black ink at a later date with the same block.
 
 ## Here is the print with black ink:
 
-<div style="text-align:center"><img src="/img/first/first-lino-black.jpg" width="100%" height="auto" frameBorder="0" /></div>
+<div style="text-align:center"><img src="/img/first/first-print-black.jpg" width="100%" height="auto" frameBorder="0" /></div>
 
-One day, I will try to get a cool gradient effect and create an edition of 25, which I will sell in my store online.
+One day, I will try to get a cool gradient effect and create an edition of 25, perhaps it will be for sale in my [online shop](https://bodhio.bigcartel.com).
 
-
+[Back to portfolio](https://bodh.io)
