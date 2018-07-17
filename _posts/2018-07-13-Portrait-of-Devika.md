@@ -4,7 +4,7 @@ title: Portrait of Devika
 subtitle: Drypoint print
 share-img: img/dev/dev-thumbnail.jpg
 image: /img/dev/dev-thumbnail.jpg
-tags: [intaglio] [portrait] [drypoint]
+tags: [intaglio, portrait, drypoint]
 ---
 
 <div style="text-align:center"><img src="/img/dev/dev-first.jpg" width="75%" height="auto" frameBorder="0" /></div>
