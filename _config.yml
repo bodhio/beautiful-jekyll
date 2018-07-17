@@ -23,7 +23,7 @@ description: Visually enlightening works of art to awaken your mind and uplift y
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Contact: "contact"
   Shop: "https://bodhio.bigcartel.com/"
 
