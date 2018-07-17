@@ -8,7 +8,7 @@ tags: [architecture, drypoint, intaglio]
 ---
 ___
 
-<div style="text-align:center"><img src="/img/shard/shard-dark.jpg" width="100%" height="auto" frameBorder="0" /></div>
+<div style="text-align:center"><img src="/img/shard/shard-dark.jpg" width="75%" height="auto" frameBorder="0" /></div>
  <div class="caption">View of the Shard from 1 London Bridge</div>
 
 ___
