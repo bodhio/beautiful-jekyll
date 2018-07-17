@@ -14,7 +14,7 @@ ___
 ___
 
 
-<div style="text-align:center"><img src="/img/dev/dev-print.jpg" width="100%" height="auto" frameBorder="0" /></div>
+<div style="text-align:center"><img src="/img/dev/dev-print.jpg" width="75%" height="auto" frameBorder="0" /></div>
  <div class="caption">Second attempt at printing, the ink turned out much better</div>
 
 ___
