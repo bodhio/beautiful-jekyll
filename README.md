@@ -1,4 +1,4 @@
-<p align="center"><img src="img/bodhio-logo.png"></p>
+<p align="center"><img src="img/bodhio-logo.png" width="50%" height="auto"></p>
 <h1 align="center">Prints by Brian</h1>
 
 ## About
