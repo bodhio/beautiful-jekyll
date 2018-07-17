@@ -17,4 +17,4 @@ When I am not busy honing my skills within the realm of printmaking, you can fin
 
 I focus on the craft of printmaking because it enables me to iteratively develop visual works of art. Although there are many different ways to create a print, I am uncommitted to a particular technique and open experimenting with all forms of the craft. I fell in love with the creative process and capacity to reproduce multiple variations of the same subject. For these reasons, the craft of printmaking is the perfect medium for me to experiment and explore ways of portraying transcendental experiences, unveiling cultural worldviews, and evoking intersubjectivity through my work.
 
-[Back to portfolio](https://bodh.io)
+[&#8592 Back to portfolio](https://bodh.io)
