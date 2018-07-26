@@ -13,7 +13,7 @@ ___
 
 ___
 
-I printed an edition of 5 of this plate for colleagues visiting from overseas. I intend on doing a series of architectural prints of iconic buildings and selling them in my [online store](https://bodhio.bigcartel.com). 
+I printed an edition of 5 of this plate - on Somerset Satin 250gsm paper - for colleagues visiting from overseas. Unfortunately, this work is not for sale but I intend on doing a series of architectural prints of iconic buildings and selling them in my [online store](https://bodhio.bigcartel.com). 
 
 If you are interested in having an architectural print commissioned, please [get in touch](/contact).
 
