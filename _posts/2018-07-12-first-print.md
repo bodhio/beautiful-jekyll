@@ -1,9 +1,10 @@
 ---
 layout: post
 title: My first print.
-subtitle: Linocut | 15 x 15cm | 2018 | Trial Proofs
+subtitle: Linocut | 15 x 15cm | 2018 | Trial Proof
 share-img: img/first/first-thumbnail.jpg
 image: /img/first/first-thumbnail.jpg
+tags: [lino, eye, relief print]
 ---
 ___
 
