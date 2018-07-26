@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ouroboros
-subtitle: Linocut | 20 x 11cm | Printed on Somerset Satin 250gsm | 2018 | Trial Proof
-share-img: img/ouroboros/ouroboros-thumbnail.jpg
-image: /img/ouroboros/ouroboros-thumbnail.jpg
+subtitle: Linocut | 20 x 11cm | 2018 | Trial Proof
+share-img: img/ouroboros/ouroboros-print.jpg
+image: /img/ouroboros/ouroboros-print.jpg
 tags: [lino, geometric, relief print]
 ---
 ___
