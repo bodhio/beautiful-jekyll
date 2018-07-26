@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portrait of Devika
-subtitle: Dry Point | Printed on Somerset Satin 250gsm | 2018 | Variable Edition of 10
+subtitle: Dry Point | 22.5 x 17cm | Printed on Somerset Satin 250gsm | 2018 | Variable Edition of 10
 share-img: img/dev/dev-thumbnail.jpg
 image: /img/dev/dev-thumbnail.jpg
 tags: [intaglio, portrait, drypoint]
