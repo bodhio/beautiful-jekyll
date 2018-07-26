@@ -5,10 +5,10 @@ subtitle: A brief bio and artist statement to learn more about the human behind 
 ---
 
 ## Bio
-Hi, my name is Brian and I am an emerging artist - born in Toronto, based in London, and creating for the universe. An avid lover of philosophy and hip-hop, I spend my days working in tech and at night I’m exploring the fine craft of printmaking. I create prints under the pseudonym Bodhi or bodh.io. The reason behind the pseudonym is:
+My name is Brian and I am an emerging artist - born in Toronto, based in London, and creating for the universe. An avid lover of philosophy and hip-hop, I spend my days working in tech and at night I’m exploring the fine craft of printmaking. I create prints under the pseudonym Bodhi or bodh.io. The reason behind the pseudonym is:
 
 * Bodhi is the sanskrit word for awakening, and the process of creating art is essential to guiding me toward a path of enlightenment.
-* I purchased bodh.io as a domain name because it sounded cool and decided to use the name as a way to display his art when I got into printmaking.
+* I purchased bodh.io as a domain name because it sounded cool and decided to use it as a brand to display my art when I got into printmaking.
 
 When I am not busy honing my skills within the realm of printmaking, you can find me immersing myself at a live music event, in a museum, art gallery, or browsing wikipedia enjoying the infinite amount of information provided by the internet.
 
