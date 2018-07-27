@@ -33,7 +33,7 @@ use-site-title: true
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
 	      <br>
 	      <br>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Learn&nbsp;More]</a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more"></a>
         {% endif %}
       </div>
     </div>
