@@ -21,9 +21,17 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
-h1,h2,h3,h4,h5,h6 {
+h1,h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+h3,h4,h5,h6 {
   font-family: 'Lato', sans-serif;
   font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: lowercase
 }
 a {
   color: {{ site.link-col }};
@@ -40,9 +48,9 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 100px;
+  max-width: 750px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 1px;
   border-color: inherit;
   border-radius: 3px;
 }
@@ -486,7 +494,9 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  text-transform: lowercase;
   line-height: 1.1;
   display: block;
   font-family: 'Lato', sans-serif;
