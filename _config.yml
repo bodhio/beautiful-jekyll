@@ -38,13 +38,13 @@ title-img: "/img/bodhio.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#D7CEC7"
+navbar-col: "#eeeeeef0"
 navbar-text-col: "#565656"
 navbar-children-col: "#F5F5F5"
 page-col: "#F4F4F4"
-link-col: "#008AFF"
-hover-col: "#76323F"
-footer-col: "#C09F80"
+link-col: "#000000"
+hover-col: "#018373"
+footer-col: "#dddddd63"
 footer-text-col: "#565656"
 footer-link-col: "#404040"
 
