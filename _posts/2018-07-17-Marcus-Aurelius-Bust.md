@@ -25,7 +25,7 @@ I thought it would be nice to create a print which honours the eternal soul of t
 
 During the summer months my local print studio (Morley College) is closed, so this was my first shot of trying to print at home and definitely won't be the last.
 
-This print may be for sale in my __**[online shop](https://bodhio.bigcartel.com).**__
+This print may be for sale in my **[online shop](https://bodhio.bigcartel.com).**
 
 Also, in the future I want to make a two-layer print of Marcus Aurelius with a gradient background to create a <a href="https://www.esquire.com/entertainment/music/a47793/what-happened-to-vaporwave/" target="_blabk">vaporwave</a> aesthetic. 
 
